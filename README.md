@@ -61,28 +61,22 @@ AI Tools -
 Setup Instructions-
 
 
-Build a simple web or mobile app for reporting civic issues.
+Set up the backend server and connect it to the database.
 
 
-Integrate a chatbot to help users register complaints and get updates.
+Build and run the web or mobile frontend application.
 
 
-Enable photo and video upload as proof of the issue.
+Integrate the chatbot for complaint registration and live updates.
 
 
-Use GPS to automatically capture the complaint location (geo-tagging).
+Enable GPS services for geo-tagged complaint submission.
 
 
-Support multiple languages for easy access by all users.
+Configure photo/video upload for complaint proof.
 
 
-Assign priority to complaints based on urgency.
-
-
-Automatically assign complaints to the nearest workers using route optimization.
-
-
-Provide live status updates until the issue is resolved.
+Activate multi-language support and live status notifications.
 
 
 
@@ -92,3 +86,19 @@ Provide live status updates until the issue is resolved.
 Build Reproducibility Instructions -
 
 
+Clone the project repository and install all required dependencies.
+
+
+Configure environment variables for database, chatbot, GPS/maps, and media storage.
+
+
+Start the backend server to manage complaints, priority logic, and worker routing.
+
+
+Run the frontend app to enable complaint registration and chatbot interaction.
+
+
+Enable geo-tagging, photo/video upload, and multi-language support.
+
+
+Launch the system and test live complaint submission, tracking, and resolution flow.
