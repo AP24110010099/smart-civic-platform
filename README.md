@@ -92,31 +92,3 @@ Provide live status updates until the issue is resolved.
 Build Reproducibility Instructions -
 
 
-Clone the project repository to your local system.
-
-
-Install required tools and dependencies (frontend framework, backend server, database).
-
-
-Set up environment variables for database, maps (GPS), and media storage.
-
-
-Start the backend server to handle complaints, routing, and priority logic.
-
-
-Run the frontend application to access the citizen reporting interface.
-
-
-Enable chatbot service for complaint registration and live updates.
-
-
-Configure GPS and map services for geo-tagged complaint submission.
-
-
-Set up photo/video upload and storage functionality.
-
-
-Enable multi-language support in the app settings.
-
-
-Launch the application and test complaint flow from submission to resolution.
