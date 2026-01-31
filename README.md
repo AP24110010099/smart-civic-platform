@@ -1,3 +1,33 @@
 # smart-civic-platform
 PROBLEM STATEMENT-
-ai tools
+
+
+
+
+
+
+
+
+
+
+Key Features -
+
+
+
+
+
+
+
+
+
+
+Tech Stack -
+
+
+
+
+
+
+
+
+AI Tools Used -
