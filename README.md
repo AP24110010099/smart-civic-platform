@@ -35,15 +35,15 @@ Key Features -
 
 Tech Stack -
 
-Frontend - HTML,JAVASCRIPT,CSS,API
+    Frontend - HTML,JAVASCRIPT,CSS,API
 
-Backend- Node.js
+    Backend- Node.js
 
-Database - Mongo DB
+    Database - Mongo DB
 
-AI Models - NLP (Chatbot), Image Classification
+    AI Models - NLP (Chatbot), Image Classification
 
-Map - Google Maps
+    Map - Google Maps
 
 
 AI Tools Used
