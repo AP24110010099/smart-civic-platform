@@ -35,6 +35,22 @@ Key Features -
 
 Tech Stack -
 
+Frontend - HTML,JAVASCRIPT,CSS.API
+Backend- Node.jS 
+DatabasE - Mongo DB
+AI Models - NLP (Chatbot), Image Classification
+Map - Google Maps
+
+
+AI Tools Used
+
+    NLP Chatbot – Complaint registration & queries
+
+    Image Classification Model – Complaint type detection
+
+    Priority Scoring Algorithm – Complaint urgency
+
+    Route Optimization Algorithm – Worker dispatching
 
 
 
