@@ -13,15 +13,16 @@ This project proposes a Smart Civic Issue Reporting Platform that enables citize
 
 
 Key Features -
-  Geotagging: Auto-capture GPS coordinates.
+
+    Geotagging: Auto-capture GPS coordinates.
   
-  Complaint Form: photo/video, description, and category.
+    Complaint Form: photo/video, description, and category.
   
-  Worker Notification: The closest employee received an instant alert.
+    Worker Notification: The closest employee received an instant alert.
   
-  Dashboard: Monitor the current state of complaints.
+    Dashboard: Monitor the current state of complaints.
   
-  Rate the quality of the resolution in the feedback system.
+    Rate the quality of the resolution in the feedback system.
 
 
 
