@@ -29,5 +29,32 @@ Tech Stack -
 
 
 
+Prompt Strategy Summary-
 
-AI Tools Used -
+
+
+
+
+
+
+
+
+AI Tools -
+
+
+
+
+
+
+
+
+
+Setup Instructions-
+
+
+
+
+
+
+
+Build Reproducibility Instructions -
