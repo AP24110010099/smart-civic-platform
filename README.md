@@ -1,6 +1,8 @@
 # smart-civic-platform
 PROBLEM STATEMENT-
+Citizens often face difficulties in reporting civic issues such as garbage overflow, road damage, water leakage, and streetlight failures. Existing systems lack real-time updates, multilingual accessibility, intelligent prioritization, and efficient workforce routing.
 
+This project proposes a Smart Civic Issue Reporting Platform that enables citizens to register complaints easily while helping civic authorities resolve issues faster using AI-powered prioritization, route optimization, and live tracking.
 
 
 
