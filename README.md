@@ -77,22 +77,22 @@ AI Tools -
 Setup Instructions-
 
 
-Set up the backend server and connect it to the database.
+    Set up the backend server and connect it to the database.
 
 
-Build and run the web or mobile frontend application.
+    Build and run the web or mobile frontend application.
 
 
-Integrate the chatbot for complaint registration and live updates.
+    Integrate the chatbot for complaint registration and live updates.
 
 
-Enable GPS services for geo-tagged complaint submission.
+    Enable GPS services for geo-tagged complaint submission.
 
 
-Configure photo/video upload for complaint proof.
+    Configure photo/video upload for complaint proof.
 
 
-Activate multi-language support and live status notifications.
+    Activate multi-language support and live status notifications.
 
 
 
@@ -106,19 +106,19 @@ Activate multi-language support and live status notifications.
 Build Reproducibility Instructions -
 
 
-Clone the project repository and install all required dependencies.
+    Clone the project repository and install all required dependencies.
 
 
-Configure environment variables for database, chatbot, GPS/maps, and media storage.
+    Configure environment variables for database, chatbot, GPS/maps, and media storage.
 
 
-Start the backend server to manage complaints, priority logic, and worker routing.
+    Start the backend server to manage complaints, priority logic, and worker routing.
 
 
-Run the frontend app to enable complaint registration and chatbot interaction.
+    Run the frontend app to enable complaint registration and chatbot interaction.
 
 
-Enable geo-tagging, photo/video upload, and multi-language support.
+    Enable geo-tagging, photo/video upload, and multi-language support.
 
 
-Launch the system and test live complaint submission, tracking, and resolution flow.
+    Launch the system and test live complaint submission, tracking, and resolution flow.
