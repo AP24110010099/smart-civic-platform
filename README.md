@@ -41,6 +41,19 @@ Tech Stack -
 
 
 Prompt Strategy Summary-
+Structured prompts for chatbot:
+
+Complaint type extraction
+
+Location confirmation
+
+Urgency detection
+
+Image prompts for classification:
+
+Garbage / Road / Water / Electrical issues
+
+Multilingual intent recognition prompts
 
 
 
