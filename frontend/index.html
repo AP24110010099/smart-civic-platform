@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart Civic Issue Reporting</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h2>Report a Civic Issue</h2>
+  <div class="container">
+  <h1>Smart Civic Platform</h1>
+  <p class="subtitle">Report issues instantly and help build a smarter city</p>
+  <p class="note">
+  Your complaint helps authorities take faster action 🚀
+</p>
+</div>
+
+
+  <form id="issueForm">
+    <input type="text" id="title" placeholder="Issue Title" required><br><br>
+
+    <textarea id="description" placeholder="Describe the issue" required></textarea><br><br>
+
+    <input type="text" id="location" placeholder="Location" required><br><br>
+
+    <select id="type" required>
+      <option value="">Select Issue Type</option>
+      <option value="garbage">Garbage</option>
+      <option value="road">Road Damage</option>
+      <option value="streetlight">Street Light</option>
+      <option value="drain">Blocked Drain</option>
+      <option value="mosquito">Mosquito Problem</option>
+    </select><br><br>
+
+    <button type="submit">Submit Issue</button>
+  </form>
+
+  <p id="message"></p>
+
+  <script src="script.js"></script>
+</body>
+</html>
